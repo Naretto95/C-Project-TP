@@ -17,7 +17,7 @@ This repository contains a collection of C++ practical works that I completed in
 
 ## Usage
 
-1. Clone the repository to your local machine using `git clone https://github.com/YOUR-USERNAME/cpp-class-practical-works.git`.
+1. Clone the repository to your local machine using `git clone https://github.com/Naretto95/CppProject-TPs.git`.
 2. Navigate to the folder of the practical work you want to run.
 3. Compile the source code using your preferred C++ compiler.
 4. Run the executable file.
